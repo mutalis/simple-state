@@ -8,7 +8,7 @@ function Counter() {
   }
   return (
     <div>
-      <div>The count is {count}</div>
+      <div>The count is: {count}</div>
       <button onClick={handleClick}>Click Me</button>
     </div>
   )
